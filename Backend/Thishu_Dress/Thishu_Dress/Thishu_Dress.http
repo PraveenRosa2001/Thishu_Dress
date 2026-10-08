@@ -1,0 +1,6 @@
+@Thishu_Dress_HostAddress = http://localhost:5062
+
+GET {{Thishu_Dress_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
