@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Thishu_Dress.props" />
+</Project>
